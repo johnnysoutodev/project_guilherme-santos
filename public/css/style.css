@@ -11,5 +11,26 @@ h1 {
 }
 
 .card {
+    border-radius: 0 !important;
+    border: 25px solid #ffc107 !important;
+}
 
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
+
+hr {
+    margin: .5rem 0;
+}
+
+hr.st {
+    color: #000;
+    opacity: 1;
+    height: 5px;
+}
+
+hr.nd {
+    color: #000;
+    opacity: 1;
+    height: 1px;
 }
