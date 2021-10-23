@@ -34,3 +34,7 @@ hr.nd {
     opacity: 1;
     height: 1px;
 }
+
+a {
+    text-decoration: none;
+}
